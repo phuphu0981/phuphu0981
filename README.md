@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Xin chào, mình là Phú!
 
-<!--
-**phuphu0981/phuphu0981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Về mình  
+- 🎓 Sinh viên năm 3 ngành Công nghệ Thông tin  
+- 💻 Yêu thích phát triển web
+- 📚 Đang tìm hiểu thêm về Backend và DevOps  
 
-Here are some ideas to get you started:
+### 🛠 Kỹ năng  
+- 🔹 **Ngôn ngữ:** JavaScript, PHP, C#
+- 🔹 **Frontend:** HTML, CSS  
+- 🔹 **Công cụ:** Git, VS Code, Docker 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Liên hệ  
+- 📧 Email: phu0908204@gmail.com 
+
+💡 *"Mỗi ngày học một điều mới!"*  
+🚀 Cùng nhau phát triển và chia sẻ kiến thức!  
