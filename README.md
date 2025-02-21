@@ -1,6 +1,6 @@
 ## 👋 Xin chào, mình là Phú!
 
-### 🚀 Về mình  
+### 🚀 Bản thân
 - 🎓 Sinh viên năm 3 ngành Công nghệ Thông tin  
 - 💻 Yêu thích phát triển web
 - 📚 Đang tìm hiểu thêm về Backend và DevOps  
